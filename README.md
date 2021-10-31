@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @rawreflect
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning C++ and HTML
-- 💞️ I’m looking to collaborate on YOU :)
 - 📫 How to reach me: maxjmagic@gmail.com
